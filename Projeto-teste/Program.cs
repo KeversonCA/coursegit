@@ -9,6 +9,7 @@ namespace Projeto_teste
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia! ");
             Console.WriteLine("Voce esta atrasado");
+            Console.WriteLine("Tchau!");
             
         }
     }
